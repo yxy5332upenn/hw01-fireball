@@ -88,7 +88,7 @@ function main() {
   ]);
 
   
-  // This function will be called every frame
+  // This function will be called every fram
   function tick() {
     camera.update();
     stats.begin();
